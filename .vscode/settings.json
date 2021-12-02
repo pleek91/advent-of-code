@@ -1,0 +1,6 @@
+{
+  "code-runner.runInTerminal": true,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  }
+}
