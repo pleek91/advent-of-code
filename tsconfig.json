@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "ES6",
-    "lib":["es2020", "dom"],
+    "lib":["ESNext"],
     "noImplicitAny": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
