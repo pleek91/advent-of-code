@@ -1,7 +1,7 @@
-import { input } from './input'
+import { sample, input } from './input'
 
-function solve() {
+function solve(input: string) {
   console.log(input)
 }
 
-solve()
+solve(sample)
