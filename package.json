@@ -1,7 +1,11 @@
 {
   "name": "advent-2021",
   "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint days --fix"
+  },
   "devDependencies": {
+    "@prefecthq/eslint-config": "^1.0.17",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
     "eslint": "^8.3.0",
